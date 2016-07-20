@@ -17,6 +17,7 @@
 		31AA9A541D3D86BC007313FC /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31AA9A531D3D86BC007313FC /* SearchView.swift */; };
 		31AA9A561D3D9AB2007313FC /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31AA9A551D3D9AB2007313FC /* HomeView.swift */; };
 		31AA9A581D3D9ACE007313FC /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31AA9A571D3D9ACE007313FC /* UserView.swift */; };
+		31AA9A5A1D3FE8CA007313FC /* NewPost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31AA9A591D3FE8CA007313FC /* NewPost.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		31AA9A531D3D86BC007313FC /* SearchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 		31AA9A551D3D9AB2007313FC /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		31AA9A571D3D9ACE007313FC /* UserView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
+		31AA9A591D3FE8CA007313FC /* NewPost.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewPost.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				31AA9A551D3D9AB2007313FC /* HomeView.swift */,
 				31AA9A531D3D86BC007313FC /* SearchView.swift */,
 				31AA9A571D3D9ACE007313FC /* UserView.swift */,
+				31AA9A591D3FE8CA007313FC /* NewPost.swift */,
 				31656E931D35715B00D03986 /* Main.storyboard */,
 				31656E961D35715B00D03986 /* Assets.xcassets */,
 				31656E981D35715B00D03986 /* LaunchScreen.storyboard */,
@@ -269,6 +272,7 @@
 				31AA9A561D3D9AB2007313FC /* HomeView.swift in Sources */,
 				31AA9A581D3D9ACE007313FC /* UserView.swift in Sources */,
 				31656E901D35715B00D03986 /* AppDelegate.swift in Sources */,
+				31AA9A5A1D3FE8CA007313FC /* NewPost.swift in Sources */,
 				31AA9A541D3D86BC007313FC /* SearchView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
