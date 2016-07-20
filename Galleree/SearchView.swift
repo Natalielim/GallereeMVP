@@ -7,9 +7,11 @@
 //
 
 import UIKit
+
 public protocol SearchTableViewDataSource : NSObjectProtocol {
     func searchPropertyName() -> String
 }
+
 class SearchTableView : UITableView {
     var itemList : [AnyObject] {
         get {
